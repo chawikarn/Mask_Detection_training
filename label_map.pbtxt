@@ -1,0 +1,16 @@
+item {
+ id: 1
+ name: 'No Mask'
+}
+item {
+ id: 2
+ name: 'Cloth Mask'
+}
+item {
+ id: 3
+ name: 'Surgical Mask'
+}
+item {
+ id: 4
+ name: 'Dust Mask'
+}
